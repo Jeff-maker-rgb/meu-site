@@ -2,7 +2,7 @@
     background-color:blueviolet;
     color: rgb(0, 0, 0);
     font-size: 30px;
-    font-family:cursive;
+    font-family:Arial, sans-serif;
     padding: 8px;
     border:0;
     border-radius: 20px;
@@ -18,17 +18,17 @@
 
 .p{
     font-size: 30px;
-    font-family:cursive;
+    font-family:Arial, sans-serif;
 }
 
 .p3{
     font-size: 30px;
-    font-family:cursive;
+    font-family:Arial, sans-serif;
 }
 
 .h1{
     font-size: 30px;
-    font-family:cursive;
+    font-family:Arial, sans-serif;
 }
 
 .body{
@@ -44,6 +44,6 @@
 
 #message{
     font-size: 30px;
-    font-family:cursive;
+    font-family:Arial, sans-serif;
     color:rgb(0, 0, 0);
 }
